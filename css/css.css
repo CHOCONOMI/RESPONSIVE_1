@@ -12,6 +12,15 @@ heather {
     flex-direction: row;
     justify-content: space-between;
 }
+.general{
+    width: 160em;
+    height: auto;
+    margin: auto;
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 
 .logo {
     width: 45em;
@@ -24,4 +33,15 @@ heather {
     height: 10em;
     background-color: #168374;
 
+}
+
+section{
+    width: 100%;
+    height: auto;
+}
+
+.producto {
+    width: 35em;
+    height: 70em;
+    background-color: lightgrey;
 }
